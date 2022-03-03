@@ -1,0 +1,164 @@
+Business Analysts in an Agile Team:
+
+  - facilitating dialogue about customer value
+  - making product owner's decisions more efficient
+  - analysing gaps
+  - producing dialogues to drive value-driven decision-making
+  - works with Product Owner (PO)
+  
+ Agile Manifesto: "We are uncovering better ways..." 
+ 
+  - Value 1: Individuals and interactions over processes and tools
+  - Value 2: Working software over comprehensive documentation. Feedback on software rather than document.
+  - Value 3: Customer collaboration over contract negotiation
+  - Value 4: Responding to change than following a plan. Plan based on outcome, small amount of value over a short period of time.
+  
+  - Principle 1: Highest priority is to satisfy customer through early and continuous delivery of software
+  - Principle 2: Welcome changing requirements, facilitate emerging ideas.
+  - Principle 3: Deliver working software frequently.
+  - Principle 4: Business people and developers must work together everyday.
+  - Principle 5: Build projects around motivated indiviudals and trust them to get the job done.
+  - Principle 6: The most efficient and effective method of conveying information is through face-to-face conversation.
+  - Principle 7: Working software is the main measure of success through prioritised stories, well defined acceptance criteria, prototyping and experimenting.
+  - Principle 8: Agile processes promote sustainable development.
+  - Principle 9: Continuous attention to technical excellence and good design.
+  - Principle 10: Simplicity - maximise what is not done - ensure that many backlog items don't get done, only the most important things get done.
+  - Principle 11: The best architectures, requirements emerge from self-emerging teams.
+  - Principle 12: At regular intervals, the team reflects on how to become more effective.
+  
+  sprint, retrospectives, backlogs, iteration, iteration leader/scrum, layers, MVP
+  
+  Can we fit something in the current sprint?
+    - Talk to product owner (decision maker) and iteration leader (if it is manageable in the iteration)
+  Dev needs more detail:
+    - Meet face to face with iteration lead and developer to understand dev concerns, whiteboard sessions, create a mock up of what is discussed. Expect iterations.
+  Virtual (video call, or virtual whiteboard)
+  
+  BA's bring clarity by using their understanding.
+  
+ Agile POVs
+ 
+  - Customer delight: Will the end customer be delighted by this?
+  - Flexibility: Everything you do contributes value.
+  - Learning and discovery process: Expect change and look for it.
+  
+ Does it provide value?
+  (1) Alignment to customer needs - Does it meet user needs
+  (2) Alignment to vision and strategy - Each increment support strategy. How does this backlog item deliver value?
+  (3) Maximise of the amount of work not done - Eliminate work that does not provide value. Does it bring the user efficiency, peace of mind, feelign special?
+  
+  VUCA (Volatility, Uncertainty, Complexity, Ambiguity)
+   - Volatitliy - Be ready for changing requirements
+   - Uncertainty - Create just-in-time requirements. Use data to pivot and address changes quickly.
+   - Complexity - Understand how to define, build, and deliver in layers. 
+   - Ambiguity - Quickly hypothesise and experiment.
+ 
+ BA in a Day
+  - Meetings, facilitation, analysis tasks, reviewing previous software, 
+  - Stand up meeting, review work completed and provide feedback, spontaneous or planned meetings, product management and leaders, prep for meetings, analysis on backlog
+  - People and analysis skills
+  - Tidying User stories and acceptance criteria
+  
+  
+ Backlog
+  - prioritised (funnel-shaped) list of what the team will deliver based on user stories
+  - Backlog items come from observations, experience, analysis, analyse where they fit in the backlog and roadmap
+  - Prioritising and analysing backlog for gaps and correct levels of detail
+  - Product level (less detail) > Release level > Sprint/Iteration level (more detailed, highest priority)
+  - BAs work with PO to move around backlog items, analyse gaps and add to backlog as appropriate
+  - PO owns the backlog
+     (1) What gets put in the backlog - each item needs to be looked according to fit, good enough shape
+     (2) The process of getting something in the backlog 
+     (3) Determining where on the backlog the item goes - break backlog into 4 buckets: 
+         - top ten (most detail, smallest increment of value, slicing the items into smaller pieces,)
+         - next release
+         - subsequent
+         - the rest
+   - Break it down by value from user point of view NOT by technical component
+   - Backlog Refining 
+      - Product backlog refinement session
+      - Detailed user story refinement meeting, happens every couple of weeks
+      - Review incoming stories
+      - Normal for half of the backlog not to get done
+   - Backlog Analysis
+      - Use story maps for context + Traditional models
+      - Traditional models : Process models, data flow diagrams, state diagrams, user journey maps, SIPOC, decision models
+      - Agile teams get better outcomes and bring analysis to the team
+   
+ BA + PO
+ (1) External facing analysis - PO
+ (2) Increments of value - BA
+ (3) Support and facilitate value to get work done
+ 
+ Techniques for Agile Business Analysts
+  - Product Decompisition / Hierarchy / Map
+    (1) Identify and slice user stories
+    (2) Plan by driving the roadmap, release plans, assist with alignment
+    (3) User features are chunked out level by level
+  - Context Techniques
+    - Context diagrams
+    - Process models
+    - Customer journey maps
+    - Data flow diagrams
+    - User story maps
+    - "walk the wall"
+  - User stories
+    - start of a requirement
+    - agile: use a lightweight file
+    - Who, What, and Why?
+    - INVEST model for a good user story:
+      - Independent - stand on its own from a user POV
+      - Negotiable - just enough detail to know what it is baout
+      - Valuable - must be valueable to the user and end user
+      - Estimable - must estimate enought detail to move forward
+      - Small 
+      - Testable - from a user perspective
+  - Acceptance criteria
+    - Conditions that tell us when the user story is working as intended
+    - main role for BA
+    - what success looks like
+    - list of statements with a clear result
+    - contain scenarios, rules, logic
+    - non-functional performance: response statement
+    - 10 statements per user story: Pass/Fail - without working knowledge
+  - User Story Map
+    - Take all the user stories and place in a map
+    - Sequence according to how user uses product form left to right
+    - Vertical - top to bottom, chunk out the details of the top level
+  - Story slicing and splitting 
+    - smaller user stories
+    - easy to test and demo
+  - Lightweight modeling
+    - use the lightest approach possible 
+    - extreme focus on a small functionality at any given time
+    - lightweith context visuals, and visual models of details
+    - only document what is needed, when it is need, just in time, at the last reponsible moment
+    - photographed
+    - reminder of conversation
+    - 10 shapes???
+    
+    
+   
+      
+      
+      
+      
+      
+ 
+ 
+  
+   
+   
+   
+   
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
