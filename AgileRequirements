@@ -135,8 +135,42 @@ Business Analysts in an Agile Team:
     - only document what is needed, when it is need, just in time, at the last reponsible moment
     - photographed
     - reminder of conversation
-    - 10 shapes???
-    
+    - 10 shapes, and let go
+    - Data flow diagrams, State diagrams, Sequence diagrams - keep lightweight
+   
+ Agile Concepts for Business Analysts
+  - Last responsible moment
+    - more time for flexibility
+    - Knowing when more information will and is likely to come
+    - e.g. customer feedback from the last release, strategic leadership decisions
+    - avoids "just in case" 
+    - we never really know when the last responsible moment is
+   - Minimum viable product (MVP)
+    - balances cost, risk, and value
+    - making sure we don't over or under engineer a product
+    - focus on key features
+    - can be at the product, release, or feature or slice feature level
+    - important to define MVP at every feature
+    - elicit, analyse, conceptualise and tell the story of what minimum viable is
+   - Experiments
+    - help teams learn while delivering
+    - creating a hypothesis and creating an outcome
+    - (1) Frame up the hypothesis. "We believe (capability), will result in (outcome). We will know we have succeeded when (measurable results)." 
+    - (2) Design the leanest experiment possible to test the hypothesis
+    - (3) Identify the assumptions you have, and what outcomes to expect
+    - (4) Conduct experiment and analyse results
+   - Value Streams
+    - organise and deliver what is valuable
+    - set of steps that deliver value to a customer, end user, or part of the organisation
+    - effectively analyse backlogs, slice user stories
+    - find waste and improve the process overall
+    - user stories/increments of value
+    - Value stream maps
+   - Outcome-focused
+    - focus on business outcomes
+    - strive for outcome at the strategic portfolio and product, roadmap, iteration levels
+   - Who is the customer?
+    - 
     
    
       
